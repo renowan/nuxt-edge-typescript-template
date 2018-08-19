@@ -1,0 +1,13 @@
+{
+  "defaultSeverity": "warning",
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "no-console": false,
+    "no-shadowed-variable": false,
+    "semicolon": [false, "always"],
+    "trailing-comma": false,
+    "no-consecutive-blank-lines": true
+  }
+}
